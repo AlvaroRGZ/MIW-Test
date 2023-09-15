@@ -16,4 +16,8 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+
+    public int developSum() {
+        return 0;
+    }
 }
